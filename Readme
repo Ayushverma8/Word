@@ -45,7 +45,7 @@ Go to http://nodejs.org and install NodeJS
 
 Then clone this repo:
 
-    git clone https://github.com/Ayushverma8/Wordfinder.git
+    git clone https://github.com/Ayushverma8/WordSearch.git
 
 And `cd` into the directory (all instructions below assume you are in the `word-finder` directory:
 
