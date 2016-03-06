@@ -1,6 +1,5 @@
 # Word Search
 
-
 I took every english word (over 200k words) and built a little NodeJS app that will help you find words that contain specific characters.
 
 Additionally, here are instructions to deploy this app to Nodejitsu, Heroku, and Azure via Windows or Mac.
@@ -20,7 +19,7 @@ And you'll get words such as:
 
 ###The question mark
 
-This character is great for games like What's the Phrase (a knock off of Wheel of Fortune)
+This character is great for games like What's the Phrase  and for SRM PD-II .
 
 Type a word into the text box with the following pattern:
 
